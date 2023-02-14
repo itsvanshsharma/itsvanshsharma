@@ -51,12 +51,10 @@ About= [
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vashars1234@gmail.com)
 
 <p align="left">
-<a href="https://twitter.com/ishansingla_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishansingla_xd" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/vansh-sharma-2bb204245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isishansingla" height="30" width="30" /></a>
 
 <a href="https://www.instagram.com/ig_vansh.sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="is.ishan.singla" height="30" width="30" /></a>
 
-<a href="https://www.hackerrank.com/vanshars1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishansingla" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/vanshars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishansingla" height="30" width="30" /></a>
 
 </p>
 <br/>
