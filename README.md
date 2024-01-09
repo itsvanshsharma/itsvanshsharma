@@ -22,7 +22,7 @@ About= [
   "Chess Player"
   "💫 I’m currently working on Backend",
   "⚡ Always ready to help!",
-  "JAVA Lover",
+  "CPP Lover",
   "💬 Ask me about anything, I am happy to help",
   "⚡️ Fun-Fact: I'm Noob"
 ]
