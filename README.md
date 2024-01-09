@@ -15,7 +15,7 @@ TechStacks= [
   'FireBase',
   'Git',
 ]
-Age = "18"
+Age = "19"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
 About= [
