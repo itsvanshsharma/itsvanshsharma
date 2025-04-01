@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name = "VANSH SHARMA"<br>Profession = {<br>  'Coding':  '❤️',<br>  'Programer':  '✅',<br>  'Devloper':  '🧲',<br>}<br>TechStacks= [<br>  'Nodejs',<br>  'FireBase',<br>  'Git',<br>]<br>Age = "19"<br>Country = "🇮🇳"<br>College = "Chitkara University, Punjab"<br>About= [<br>  "Chess Player"<br>  "💫 I’m currently working on Backend",<br>  "⚡ Always ready to help!",<br>  "CPP Lover",<br>  "💬 Ask me about anything, I am happy to help",<br>  "⚡️ Fun-Fact: I'm Noob"<br>]<br>
+Name = "VANSH SHARMA"<br>Profession = {<br>  'Coding':  '❤️',<br>  'Programer':  '✅',<br>  'Devloper':  '🧲',<br>}<br>TechStacks= [<br>  'Nodejs',<br>  'FireBase',<br>  'Git',<br>]<br>Age = "20"<br>Country = "🇮🇳"<br>College = "Chitkara University, Punjab"<br>About= [<br>  "Chess Player"<br>  "💫 I’m currently working on Backend",<br>  "⚡ Always ready to help!",<br>  "CPP Lover",<br>  "💬 Ask me about anything, I am happy to help",<br>  "⚡️ Fun-Fact: I know nothing"<br>]<br>
 
 
 # 💻 Tech Stack:
